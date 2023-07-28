@@ -1,4 +1,6 @@
-### Hi there 👋
+### print(Hello world)🌐 
+
+Thanks for visiting ross insilico form 💻. Original depricated repo @rossping but not to worry - the work that actually matters has been 🍴
 
 <!--
 **rossinsilico/rossinsilico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
