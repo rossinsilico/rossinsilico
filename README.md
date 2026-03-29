@@ -1,20 +1,17 @@
-## hello world 🌐 
+# Ross Pingatore
 
-Thanks for visiting ross insilico form.
+Applied AI, deployment, and product engineer in New York.
 
-My original depricated repo is @rossping but not to worry - the work that actually matters has been 🍴
+I build AI systems that move from prototype to production. My work spans enterprise delivery and zero-to-one product builds, with a focus on agent workflows, document intelligence, workflow automation, and customer-facing applications that have to work under real constraints.
 
-<!--
-**rossinsilico/rossinsilico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current stack: Python, TypeScript, React, React Native, Swift, OpenAI API, LangChain/LangGraph, AWS, Azure, GCP, Supabase, and Cloudflare.
 
-Here are some ideas to get you started:
+## Current focus
+- production AI systems and agent orchestration
+- cross-cloud enterprise delivery
+- zero-to-one product builds across mobile and web
+- practical AI that improves real workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Elsewhere
+- [LinkedIn](https://www.linkedin.com/in/ross-pingatore/)
+- [Email](mailto:ross.pingatore@gmail.com)
