@@ -15,3 +15,4 @@ Current stack: Python, TypeScript, React, React Native, Swift, OpenAI API, LangC
 ## Elsewhere
 - [LinkedIn](https://www.linkedin.com/in/ross-pingatore/)
 - [Email](mailto:ross.pingatore@gmail.com)
+- [X](https://x.com/rossinsilico)
