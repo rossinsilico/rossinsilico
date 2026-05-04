@@ -1,4 +1,4 @@
-# Ross 
+# ross 
 
 Applied AI, deployment, and product engineer in New York City :statue_of_liberty:
 
