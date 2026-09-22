@@ -13,6 +13,7 @@ Current stack: Python, TypeScript, React, React Native, Swift, OpenAI API, LangC
 - practical AI that improves real workflows
 
 ## Elsewhere
+- [Web](https://rossinsilico.com)
 - [LinkedIn](https://www.linkedin.com/in/ross-pingatore/)
 - [Email](mailto:ross.pingatore@gmail.com)
 - [X](https://x.com/rossinsilico)
